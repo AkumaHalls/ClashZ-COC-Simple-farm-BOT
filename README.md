@@ -93,8 +93,8 @@ por **[@AkumaHalls](https://github.com/AkumaHalls)**
 
 ## 📜 Licença
 
-Escolha sua licença (MIT, GPLv3, etc) e substitua esta seção.  
-Recomendo [MIT](https://choosealicense.com/licenses/mit/) se quiser liberdade total para quem for usar.
+licença 
+[MIT]
 
 ---
 
